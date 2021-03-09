@@ -76,6 +76,24 @@ Ich bin krank.
 
 
 
+== صياغة الجمع
+-nis**se**
+-in**nen** مؤنث
+-er معظم المذكر
+
+
+
+
+
+== Nominativ - الفاعل
+der     die     das    die
+ein     eine    ein    ---
+kein    keine   kein   keine
+
+wer? شخص
+was? شيء
+
+
 ___
 
 
