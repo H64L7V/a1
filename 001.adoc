@@ -151,3 +151,15 @@ die Maus
 
 die Brille
 der Schlüssel
+
+
+
+.das Essen
+die Speisekarte القائمة
+der Kellner جرسون
+der Schauspieler ممثل
+der Professor
+der Arzt
+die Rechnung الفاتورة
+
+die Rechnung, bitte!
