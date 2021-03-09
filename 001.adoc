@@ -92,7 +92,7 @@ kein    keine   kein   keine
 
 wer? شخص
 was? شيء
-
+ 
 
 ___
 
