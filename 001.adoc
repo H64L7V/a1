@@ -1,5 +1,87 @@
 
 
+
+
+== der Buchstabe / -n
+f - eff
+v - fau
+w - wee
+
+
+
+
+== الضمائر الشخصية
+der -> er
+die -> sie
+das -> es
+die -> sie
+
+*ihr* أنتم
+
+
+
+
+== تحديد ال التعريف
+.der
+-ant
+-ent
+-ich
+-ling
+-ist
+-ismus
+-or
+
+.das
+-chen
+-lein
+-ment
+-um
+
+.die
+-anz
+-enz
+-heit
+-keit
+-ie
+-ei
+-ik
+-in
+-ion
+-ität
+-schaft
+-ung
+-ur
+-e *معظم*
+
+
+
+
+
+== فعل haben
+- شاذ
+- فعل مساعد
+- Akkusativ
+- مع *أسم* لوصف حالة
+Ich habe Angst.
+
+
+== فعل sein
+- شاذ
+- فعل مساعد
+- للإشارة على الشياء/الأشخاص
+- مع *صفة* لوصف حالة
+Ich bin krank.
+
+
+
+
+
+___
+
+
+
+
+
 vorgestern
 gestern (war)
 heute (ist)
