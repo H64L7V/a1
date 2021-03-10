@@ -33,12 +33,12 @@ die Zigarette / -n
 > Ich spreche noch nicht gut Deutsch.
 
 
+//-----------------------[FOOD]--------------------------
 
 .شو بتحب تأكل؟
 - Was essen/trinken Sie gern?
   Ich esse gern (kein) ...
   Ich esse (nicht -so) gern ...
-
 
 
 .أنا نباتي !
@@ -50,14 +50,7 @@ das Rindfleisch بقر
 > Ich esse kein _Schweinefleisch_
 
 
-
-haben/kaufen/brauchen/nehmen + *Akkusativ*
-
-
-
-
 .في السوق
-
 - Kaufst du bitte ...?
 
 der Supermarkt
@@ -86,8 +79,6 @@ Ich kaufe auf dem Markt.
   Das macht __€
 
 
-
-
 .في المطعم
   Ich esse zum Frühstück ...
 das Frühstück
@@ -101,4 +92,8 @@ Eine Portion ...
   die Rechnung, bitte!
   Ich möchte gern zahlen.
 +__€. Stimmt so.
+
+//------------------------------------------------------
+
+
 
