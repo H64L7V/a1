@@ -47,7 +47,11 @@ scharf حد
 
 
 
-
+vorgestern
+gestern (war)
+heute (ist)
+morgen
+übermorgen
 
 
 
