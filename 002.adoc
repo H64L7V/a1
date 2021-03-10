@@ -1,11 +1,6 @@
 
 
-der Kanzler مستشار
-der Polizist
-der Künstler فنان
 
-
-der Kühlschrank براد
 
 .شو بتحب تأكل؟
 - Was essen/trinken Sie gern?
@@ -60,25 +55,7 @@ Ich kaufe auf dem Markt.
 
 
 
-süß حلو
-salzig مالح
-sauer حامض
-scharf حد
 
-
-
-den Kuchen
-
-die Marmelade
-der Honig
-
-die Kantine
-
-die Suppe
-die Pommes بطاطا مقلية
-
-das Bier / -e
-der Wein / -e
 
 
 
